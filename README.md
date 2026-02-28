@@ -21,7 +21,7 @@ A vibrant, multi-lane crossing game built with Python's Turtle library. Navigate
 - **Anti-Overlap Spawning**: Includes a "dead zone" check to ensure cars don't spawn on top of each other in the same lane.
 
 
----------------------------------------------------------------------------------------------------⚙️ Customization Guide------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------⚙️ Customization Guide-------------------------------------------------------------------------------------------------------------------
 If you want to modify the game's difficulty or appearance, here are the key variables you can change:
 
 1. Changing Screen Size
