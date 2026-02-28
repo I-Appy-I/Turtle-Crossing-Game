@@ -31,7 +31,7 @@ Python
 
 # In main.py
 screen.setup(width=800, height=800) # Increase or decrease these values
-Note: If you change the screen size, you will also need to update the ROAD_START_Y and ROAD_END_Y in road_env.py and the LANES in car_manager.py to ensure the road still covers the visible area.
+Note: If you change the screen size, you will also need to update the ROAD_START_Y and ROAD_END_Y in roads.py and the LANES in car_manager.py to ensure the road still covers the visible area.
 
 2. Adjusting Traffic Density
 If the game is too easy or too hard, you can change how frequently cars spawn in car_manager.py:
